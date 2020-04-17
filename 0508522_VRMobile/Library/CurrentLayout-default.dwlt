@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 342}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 119
+  controlID: 35
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 77
+  controlID: 170
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,7 +222,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 78
+  controlID: 92
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -529,14 +529,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: F:\Project\Game Project\VR\0508522_VRMobile
+  m_LastProjectPath: F:\Project\Game Project\VR\HWH_0508522_Midterm_VRMobile\0508522_VRMobile
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e03e0000
-    m_LastClickedID: 16096
-    m_ExpandedIDs: 00000000e03e0000e23e0000e43e0000e63e0000e83e0000ea3e0000ec3e0000ee3e0000f03e0000f23e0000f43e0000f63e0000f83e0000fa3e0000fc3e000000ca9a3b
+    m_SelectedIDs: 363f0000
+    m_LastClickedID: 16182
+    m_ExpandedIDs: 00000000363f0000383f00003a3f00003c3f00003e3f0000403f0000423f0000443f0000463f0000483f00004a3f00004c3f00004e3f0000503f0000523f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -564,7 +564,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e03e0000e23e0000e43e0000e63e0000e83e0000ea3e0000ec3e0000ee3e0000f03e0000f23e0000f43e0000f63e0000f83e0000fa3e0000fc3e0000
+    m_ExpandedIDs: 00000000363f0000383f00003a3f00003c3f00003e3f0000403f0000423f0000443f0000463f0000483f00004a3f00004c3f00004e3f0000503f0000523f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -668,8 +668,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -493.5
     m_HBaseRangeMax: 493.5
-    m_VBaseRangeMin: -294.5
-    m_VBaseRangeMax: 294.5
+    m_VBaseRangeMin: -305
+    m_VBaseRangeMax: 305
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -686,11 +686,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 987
-      height: 589
+      height: 610
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 493.5, y: 294.5}
+    m_Translation: {x: 493.5, y: 305}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -698,9 +698,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -493.5
-      y: -294.5
+      y: -305
       width: 987
-      height: 589
+      height: 610
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 987, y: 610}
@@ -795,7 +795,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.4178914, y: 0.24903725, z: -0.121707745, w: 0.86520475}
     speed: 2
-    m_Value: {x: 0.41788206, y: 0.24903166, z: -0.12170502, w: 0.8651854}
+    m_Value: {x: -0.4178914, y: -0.24903725, z: 0.12170774, w: -0.86520475}
   m_Size:
     m_Target: 20.28114
     speed: 2
@@ -812,7 +812,7 @@ MonoBehaviour:
     m_EasingEnabled: 1
     m_EasingDuration: 0.4
     m_AccelerationEnabled: 1
-    m_FieldOfView: 90
+    m_FieldOfViewHorizontalOrVertical: 60
     m_NearClip: 0.03
     m_FarClip: 10000
     m_DynamicClip: 1
@@ -855,7 +855,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_ExpandedIDs: 12fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
